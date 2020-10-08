@@ -2,4 +2,4 @@
 Good Resources came across
 
 ### CSS Grids
-(CSS Grids and more slides)[https://www.jemimaabu.com/]
+CSS Grids and more slides - https://www.jemimaabu.com/#speaking
